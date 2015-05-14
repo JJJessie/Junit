@@ -144,7 +144,7 @@ public class TestRunner {
 C:\JUNIT_WORKSPACE>javac TestJunit.java TestRunner.java
 ```
 
-现在运行 Test Runner 来看结果
+现在运行 Test Runner 来看结果。
 
 ```
 C:\JUNIT_WORKSPACE>java TestRunner
